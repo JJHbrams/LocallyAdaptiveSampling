@@ -1,5 +1,5 @@
-# CS686MotionPlanning
-2019 Fall semester - CS686 Motion Planning Project source code
+# Locally Adaptive Sampling
+An hierarchical kinodynamic motion planning frame work with locally adaptive sampling method
 # Install dependancies
 * Hope you already using ubuntu16+
 1. Install ros
